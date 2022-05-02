@@ -24,7 +24,7 @@ stiffsdskdfasdnf;sdf.sakfno
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://ivorganics.com/product/3-in-1-plant-guard-spray/?utm_source=google&utm_medium=cpc&utm_campaign=14254720503&adgroup=125466150413&utm_term=&utm_content=538799699980&feeditemid=&loc_interest_ms=&loc_physical_ms=9032111&matchtype=&network=u&device=c&devicemodel=&placement=&target=&adposition=&gclid=Cj0KCQjw37iTBhCWARIsACBt1IwSaDvjHsvEVFYnA6T4jEmvr4t92mZ4ogjWnDpR9fOWDXq0f_UVHlwaAu5OEALw_wcB) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
