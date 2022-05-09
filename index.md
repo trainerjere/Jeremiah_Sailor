@@ -20,8 +20,8 @@ Syntax highlighted code block
 stuff 
 stiffsdskdfasdnf;sdf.sakfno
 1. Numbered
-2. List
-
+2. List  
+- stuff 
 **Bold** and _Italic_ and `Code` text
 
 [https://ivorganics.com/product/3-in-1-plant-guard-spray/?utm_source=google&utm_medium=cpc&utm_campaign=14254720503&adgroup=125466150413&utm_term=&utm_content=538799699980&feeditemid=&loc_interest_ms=&loc_physical_ms=9032111&matchtype=&network=u&device=c&devicemodel=&placement=&target=&adposition=&gclid=Cj0KCQjw37iTBhCWARIsACBt1IwSaDvjHsvEVFYnA6T4jEmvr4t92mZ4ogjWnDpR9fOWDXq0f_UVHlwaAu5OEALw_wcB](iv) and ![Image](src)
